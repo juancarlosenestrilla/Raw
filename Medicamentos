@@ -14,7 +14,7 @@
 
       "uso": " Elimina las bacterias",
 
-      "contraindicaciones": "El uso de este medicamento está contraindi­cado en personas con antecedentes de hipersensi­bi­lidad a cualquier penicilina.",
+      "contraindicaciones": "El uso de este medicamento está contraindi­cado en personas con antecedentes de hipersensi­bi­lidad a cualquier penicilina."
 
     },
 
@@ -28,7 +28,7 @@
 
       "uso":"Para infecciones sistémicas o localizadas por estafilococos.",
 
-      "contraindicaciones":"Hipersensibilidad ß-lactámicos.",     
+      "contraindicaciones":"Hipersensibilidad ß-lactámicos."     
 
     },
 
@@ -42,7 +42,7 @@
 
       "uso": "Se usa para tratar o prevenir ciertas infecciones causadas por bacterias como la neumonía; gonorrea (una enfermedad de transmisión sexual).",
 
-      "contraindicaciones": "Puede ocasionar efectos secundarios, si se presentan estos síntomas es grave o no desaparece: náusea, vómitos, dolor de estómago.",
+      "contraindicaciones": "Puede ocasionar efectos secundarios, si se presentan estos síntomas es grave o no desaparece: náusea, vómitos, dolor de estómago."
 
     },
     
@@ -52,12 +52,11 @@
 
       "nombre": "Metronidazole",
 
-      "descripcion": "es un antibiótico que se usa para el tratamiento de infecciones bacterianas de el estómago, el hígado, la piel, las articulaciones, 
-      el cerebro, y el tracto respiratorio.",
+      "descripcion": "es un antibiótico que se usa para el tratamiento de infecciones bacterianas de el estómago, el hígado, la piel, las articulaciones.",
 
-      "uso": "Se usa en infecciones ginecológicas como endometritis, abscesos tubo-ováricos, ­salpingitis, en infecciones del tracto respiratorio inferior como empiema."
+      "uso": "Se usa en infecciones ginecológicas como endometritis, abscesos tubo-ováricos, ­salpingitis, en infecciones del tracto respiratorio inferior como empiema.",
 
-      "contraindicaciones": "Síntomas de una reacción alérgica: ronchas; dificultad para respirar; hinchazón de la cara, labios, lengua, o garganta.",    
+      "contraindicaciones": "Síntomas de una reacción alérgica: ronchas; dificultad para respirar; hinchazón de la cara, labios, lengua, o garganta."   
 
     },
 
@@ -71,7 +70,7 @@
 
       "uso":"Elimina las bacterias que causan infecciones. Algunos pacientes pueden recibir este medicamento para prevenir la neumonía durante la quimioterapia",
 
-      "contraindicaciones":"Posibles efectos secundarios: Náuseas y vómitos, Sarpullido, Sensibilidad al sol, Pérdida del apetito, Diarrea, Dolor abdominal, Hemogramas bajos ",
+      "contraindicaciones":"Posibles efectos secundarios: Náuseas y vómitos, Sarpullido, Sensibilidad al sol, Pérdida del apetito, Diarrea, Dolor abdominal, Hemogramas bajos "
 
     },
 
@@ -85,8 +84,7 @@
 
       "uso": "Funciona al cambiar la manera en que el cerebro y el sistema nervioso responden al dolor.",
 
-      "contraindicaciones": " El tramadol puede ocasionar problemas de respiración graves o que pongan en riesgo la vida, especialmente durante las primeras 24 a 72 horas de su 
-      tratamiento.",
+      "contraindicaciones": " El tramadol puede ocasionar problemas de respiración graves o que pongan en riesgo la vida, especialmente durante las primeras 24 a 72 horas."
 
     },
 
@@ -100,7 +98,7 @@
 
       "uso": "Se usa para tratar la picazón, enrojecimiento, resequedad, costras, descamación, inflamacióny las molestias ocasionadas por diferentes problemas en la piel.",
 
-      "contraindicaciones": "La betametasona puede ocasionar efectos secundarios. como ardor, picazón, irritación, escozor, enrojecimiento o resequedad de la piel ",
+      "contraindicaciones": "La betametasona puede ocasionar efectos secundarios. como ardor, picazón, irritación, escozor, enrojecimiento o resequedad de la piel "
 
     },
 
@@ -114,7 +112,7 @@
 
       "uso": " Se usa para tratar úlceras; reflujo gastroesofágico, una condición en la que el reflujo del ácido del estómago provoca pirosis.",
 
-      "contraindicaciones": "La ranitidina puede causar efectos secundarios. Los síntomas se vuelve severo o si no desaparece: dolor de cabeza (cefalea), estreñimiento, diarrea.",     
+      "contraindicaciones": "La ranitidina puede causar efectos secundarios. Los síntomas se vuelve severo o si no desaparece: dolor de cabeza (cefalea), estreñimiento, diarrea."     
 
     },
 
@@ -128,7 +126,7 @@
 
       "uso": "Se utiliza para controlar el azúcar en sangre en las personas que tienen diabetes tipo 1  o en las personas que tienen diabetes tipo 2.",
 
-      "contraindicaciones": "Este medicamento ocasiona cambios en el azúcar en sangre.",
+      "contraindicaciones": "Este medicamento ocasiona cambios en el azúcar en sangre."
 
     },
 
@@ -142,7 +140,7 @@
 
       "uso": "se usa para tratar reacciones alérgicas intensas. Se usa para el control de ciertos tipos de edema; enfermedad gastrointestinaly ciertos tipos de artritis.",
 
-      "contraindicaciones": "Algunos efectos secundarios pueden ser: dolor de garganta, fiebre, escalofríos, tos u otros síntomas de infección, convulsiones, problemas de la vista.",
+      "contraindicaciones": "Algunos efectos secundarios pueden ser: dolor de garganta, fiebre, escalofríos, tos u otros síntomas de infección, convulsiones, problemas de la vista."
 
     }
 
