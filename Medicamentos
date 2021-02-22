@@ -1,0 +1,149 @@
+{
+
+  "medicamentos":
+
+  [
+
+    {
+
+      "id": "0",
+
+      "nombre": "Ampicilina",
+
+      "descripcion": " ",
+
+      "uso": " "
+
+      "contraindicaciones": " ",
+
+    },
+
+    {
+
+      "id": "1",
+
+      "nombre":"Cloxacilina",
+
+      "descripcion":" ",
+
+      "uso":" "
+
+      "contraindicaciones":" ",     
+
+    },
+
+    {
+
+      "id": "2",
+
+      "nombre": "Ciprofloxacino",
+
+      "descripcion": " ",
+
+      "uso": " "
+
+      "contraindicaciones": " ",
+
+    },
+    
+    {
+
+      "id": "3",
+
+      "nombre": "Metronidazole",
+
+      "descripcion": " ",
+
+      "uso": " "
+
+      "contraindicaciones": " ",    
+
+    },
+
+    {
+
+      "id": "4",
+
+      "nombre": "Sulfametoxazol",
+
+      "descripcion":" ",
+
+      "uso":" "
+
+      "contraindicaciones":" ",
+
+    },
+
+    {
+
+      "id": "5",
+
+      "nombre": "Tramadol",
+
+      "descripcion": " ",
+
+      "uso": " "
+
+      "contraindicaciones": " ",    
+
+    },
+
+    {
+
+      "id": "6",
+
+      "nombre": "Betametasona",
+
+      "descripcion": " ",
+
+      "uso": " "
+
+      "contraindicaciones": " ",
+
+    },
+
+    {
+
+      "id": "7",
+
+      "nombre": "Ranitidine",
+
+      "descripcion": " ",
+
+      "uso": " "
+
+      "contraindicaciones": " ",     
+
+    },
+
+    {
+
+      "id": "8",
+
+      "nombre": "Insulina_Inyectable",
+
+      "descripcion": " ",
+
+      "uso": " "
+
+      "contraindicaciones": " ",
+
+    },
+
+    {
+
+      "id": "9",
+
+      "nombre": "Dexametasona",
+
+      "descripcion": " ",
+
+      "uso": " "
+
+      "contraindicaciones": "  ",
+
+    }
+
+  ]
+
+}
