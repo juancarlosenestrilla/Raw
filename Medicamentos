@@ -6,21 +6,21 @@
 
     {
 
-      "id": "0",
+      "id":"0",
 
-      "nombre": "Ampicilina",
+      "nombre":"Ampicilina",
 
-      "descripcion": "Es un antibiótico betalactámico que ha sido extensamente utilizado para tratar infecciones bacterianas desde el año 1961.",
+      "descripcion":"Es un antibiótico betalactámico que ha sido extensamente utilizado para tratar infecciones bacterianas desde el año 1961.",
 
-      "uso": " Elimina las bacterias",
+      "uso":"Elimina las bacterias",
 
-      "contraindicaciones": "El uso de este medicamento está contraindi­cado en personas con antecedentes de hipersensi­bi­lidad a cualquier penicilina."
+      "contraindicaciones":"El uso de este medicamento está contraindi­cado en personas con antecedentes de hipersensi­bi­lidad a cualquier penicilina."
 
     },
 
     {
 
-      "id": "1",
+      "id":"1",
 
       "nombre":"Cloxacilina",
 
@@ -34,13 +34,13 @@
 
     {
 
-      "id": "2",
+      "id":"2",
 
-      "nombre": "Ciprofloxacino",
+      "nombre":"Ciprofloxacino",
 
-      "descripcion": "Es un medicamento que pertenece a una clase de antibióticos llamados fluoroquinolonas, actúa eliminando las bacterias que causan las infecciones.",
+      "descripcion":"Es un medicamento que pertenece a una clase de antibióticos llamados fluoroquinolonas, actúa eliminando las bacterias que causan las infecciones.",
 
-      "uso": "Se usa para tratar o prevenir ciertas infecciones causadas por bacterias como la neumonía; gonorrea (una enfermedad de transmisión sexual).",
+      "uso":"Se usa para tratar o prevenir ciertas infecciones causadas por bacterias como la neumonía; gonorrea (una enfermedad de transmisión sexual).",
 
       "contraindicaciones": "Puede ocasionar efectos secundarios, si se presentan estos síntomas es grave o no desaparece: náusea, vómitos, dolor de estómago."
 
@@ -48,23 +48,23 @@
     
     {
 
-      "id": "3",
+      "id":"3",
 
-      "nombre": "Metronidazole",
+      "nombre":"Metronidazole",
 
-      "descripcion": "es un antibiótico que se usa para el tratamiento de infecciones bacterianas de el estómago, el hígado, la piel, las articulaciones.",
+      "descripcion":"es un antibiótico que se usa para el tratamiento de infecciones bacterianas de el estómago, el hígado, la piel, las articulaciones.",
 
-      "uso": "Se usa en infecciones ginecológicas como endometritis, abscesos tubo-ováricos, ­salpingitis, en infecciones del tracto respiratorio inferior como empiema.",
+      "uso":"Se usa en infecciones ginecológicas como endometritis, abscesos tubo-ováricos, ­salpingitis, en infecciones del tracto respiratorio inferior como empiema.",
 
-      "contraindicaciones": "Síntomas de una reacción alérgica: ronchas; dificultad para respirar; hinchazón de la cara, labios, lengua, o garganta."   
+      "contraindicaciones":"Síntomas de una reacción alérgica: ronchas; dificultad para respirar; hinchazón de la cara, labios, lengua, o garganta."   
 
     },
 
     {
 
-      "id": "4",
+      "id":"4",
 
-      "nombre": "Sulfametoxazol",
+      "nombre":"Sulfametoxazol",
 
       "descripcion":"El sulfametoxazol/trimetoprima es un antibiótico",
 
@@ -76,71 +76,71 @@
 
     {
 
-      "id": "5",
+      "id":"5",
 
-      "nombre": "Tramadol",
+      "nombre":"Tramadol",
 
-      "descripcion": "Pertenece a una clase de medicamentos llamados analgésicos opiáceos (narcóticos). ",
+      "descripcion":"Pertenece a una clase de medicamentos llamados analgésicos opiáceos (narcóticos). ",
 
-      "uso": "Funciona al cambiar la manera en que el cerebro y el sistema nervioso responden al dolor.",
+      "uso":"Funciona al cambiar la manera en que el cerebro y el sistema nervioso responden al dolor.",
 
-      "contraindicaciones": " El tramadol puede ocasionar problemas de respiración graves o que pongan en riesgo la vida, especialmente durante las primeras 24 a 72 horas."
-
-    },
-
-    {
-
-      "id": "6",
-
-      "nombre": "Betametasona",
-
-      "descripcion": "pertenece a una clase de medicamentos llamados corticoesteroides. Funciona al activar las sustancias naturales en la piel para reducir la hinchazón, el enrojecimiento y la picazón.",
-
-      "uso": "Se usa para tratar la picazón, enrojecimiento, resequedad, costras, descamación, inflamacióny las molestias ocasionadas por diferentes problemas en la piel.",
-
-      "contraindicaciones": "La betametasona puede ocasionar efectos secundarios. como ardor, picazón, irritación, escozor, enrojecimiento o resequedad de la piel "
+      "contraindicaciones":" El tramadol puede ocasionar problemas de respiración graves o que pongan en riesgo la vida, especialmente durante las primeras 24 a 72 horas."
 
     },
 
     {
 
-      "id": "7",
+      "id":"6",
 
-      "nombre": "Ranitidine",
+      "nombre":"Betametasona",
 
-      "descripcion": "La ranitidina es un principio activo que se utiliza para reducir la producción de ácido en el estómago en situaciones como la úlcera gástrica o el reflujo gastroesofágico.",
+      "descripcion":"pertenece a una clase de medicamentos llamados corticoesteroides. Funciona al activar las sustancias naturales en la piel para reducir la hinchazón, el enrojecimiento y la picazón.",
 
-      "uso": " Se usa para tratar úlceras; reflujo gastroesofágico, una condición en la que el reflujo del ácido del estómago provoca pirosis.",
+      "uso":"Se usa para tratar la picazón, enrojecimiento, resequedad, costras, descamación, inflamacióny las molestias ocasionadas por diferentes problemas en la piel.",
 
-      "contraindicaciones": "La ranitidina puede causar efectos secundarios. Los síntomas se vuelve severo o si no desaparece: dolor de cabeza (cefalea), estreñimiento, diarrea."     
-
-    },
-
-    {
-
-      "id": "8",
-
-      "nombre": "Insulina_Inyectable",
-
-      "descripcion": "Es una clase de medicamentos llamados hormonas, ayudando a mover el azúcar de la sangre hacia los otros tejidos del cuerpo.",
-
-      "uso": "Se utiliza para controlar el azúcar en sangre en las personas que tienen diabetes tipo 1  o en las personas que tienen diabetes tipo 2.",
-
-      "contraindicaciones": "Este medicamento ocasiona cambios en el azúcar en sangre."
+      "contraindicaciones":"La betametasona puede ocasionar efectos secundarios. como ardor, picazón, irritación, escozor, enrojecimiento o resequedad de la piel"
 
     },
 
     {
 
-      "id": "9",
+      "id":"7",
 
-      "nombre": "Dexametasona",
+      "nombre":"Ranitidine",
 
-      "descripcion": "Funciona para tratar a las personas con niveles bajos de corticosteroides al reemplazar los esteroides.",
+      "descripcion":"La ranitidina es un principio activo que se utiliza para reducir la producción de ácido en el estómago en situaciones como la úlcera gástrica o el reflujo gastroesofágico.",
 
-      "uso": "se usa para tratar reacciones alérgicas intensas. Se usa para el control de ciertos tipos de edema; enfermedad gastrointestinaly ciertos tipos de artritis.",
+      "uso":"Se usa para tratar úlceras; reflujo gastroesofágico, una condición en la que el reflujo del ácido del estómago provoca pirosis.",
 
-      "contraindicaciones": "Algunos efectos secundarios pueden ser: dolor de garganta, fiebre, escalofríos, tos u otros síntomas de infección, convulsiones, problemas de la vista."
+      "contraindicaciones":"La ranitidina puede causar efectos secundarios. Los síntomas se vuelve severo o si no desaparece: dolor de cabeza (cefalea), estreñimiento, diarrea."     
+
+    },
+
+    {
+
+      "id":"8",
+
+      "nombre":"Insulina_Inyectable",
+
+      "descripcion":"Es una clase de medicamentos llamados hormonas, ayudando a mover el azúcar de la sangre hacia los otros tejidos del cuerpo.",
+
+      "uso":"Se utiliza para controlar el azúcar en sangre en las personas que tienen diabetes tipo 1  o en las personas que tienen diabetes tipo 2.",
+
+      "contraindicaciones":"Este medicamento ocasiona cambios en el azúcar en sangre."
+
+    },
+
+    {
+
+      "id":"9",
+
+      "nombre":"Dexametasona",
+
+      "descripcion":"Funciona para tratar a las personas con niveles bajos de corticosteroides al reemplazar los esteroides.",
+
+      "uso":"se usa para tratar reacciones alérgicas intensas. Se usa para el control de ciertos tipos de edema; enfermedad gastrointestinaly ciertos tipos de artritis.",
+
+      "contraindicaciones":"Algunos efectos secundarios pueden ser: dolor de garganta, fiebre, escalofríos, tos u otros síntomas de infección, convulsiones, problemas de la vista."
 
     }
 
